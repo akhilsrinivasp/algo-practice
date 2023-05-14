@@ -1,5 +1,3 @@
-package day_1;
-
 // https://leetcode.com/problems/add-two-numbers/description/
 
 class ListNode {
