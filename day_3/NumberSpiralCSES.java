@@ -14,6 +14,7 @@ public class NumberSpiralCSES {
                 ans +=x-y;
             System.out.println(ans);
         }
+        sc.close();
     }   
 }
 

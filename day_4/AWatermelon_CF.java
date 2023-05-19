@@ -11,6 +11,7 @@ public class AWatermelon_CF {
         } else {
             System.out.println("NO");
         }
+        s.close();
     }
 }
 
